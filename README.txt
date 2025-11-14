@@ -5,3 +5,5 @@ Program input.c - pobiera od użytkownika dowolną liczbę całkowitą z klawiat
 Program kalkulator.c - program na bazie podanych dwóch zmiennych w kodzie podaje wynik dodawania, odejmowania, mnożenia i dzielenia tych zmiennych
 
 Program zmienne.c - program na bazie podanych dwóch zmiennych w kodzie wyświetla ich wartość 
+
+Program srednia.c - program na bazie podanych trzech zmiennych w kodzie liczy oraz wyświetla ich średnią arytmetyczną
